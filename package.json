@@ -1,0 +1,24 @@
+{
+  "name": "node-salesforce-aa",
+  "version": "1.0.0",
+  "description": "This module is for Salesforce app providers to authenticate their clients and work with the client's Salesforce data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awateatul/node-salesforce-aa.git"
+  },
+  "keywords": [
+    "node",
+    "salesforce",
+    "module"
+  ],
+  "author": "Atul Awate <atulawate@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awateatul/node-salesforce-aa/issues"
+  },
+  "homepage": "https://github.com/awateatul/node-salesforce-aa#readme"
+}
